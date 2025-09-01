@@ -29,7 +29,7 @@ const articles = [
     title: "Research as a Student at BITS",
     desc:
       "Research is not just about high-tech labs and big discoveries—it begins with asking simple questions. Many Indian physicists started their journey with curiosity about everyday phenomena, leading them to discoveries that changed the world. This article emphasizes how undergraduate students can take small steps into research, from reading papers and discussing ideas to trying simple experiments. The message is clear: great science often begins with curiosity and persistence.",
-    img: "/public/images/article4.png",
+    img: "/images/article4.png",
   },
 ];
 
