@@ -5,19 +5,19 @@ const professors = [
     name: "Dr. Rickmoy Samanta",
     date: "July 2023",
     snippet: "In this talk, Dr. Rickmoy Samanta discussed the role of Physics in modern research.",
-    img: "/src/assets/images/prof1.png",
+    img: "/public/images/prof1.png",
   },
   {
     name: "Dr. Subhadeep Roy",
     date: "August 2023",
     snippet: "Dr. Subhadeep Roy shared insights on contribution of maxwell equations to Physics",
-    img: "/src/assets/images/prof2.png",
+    img: "/public/images/prof2.png",
   },
    {
      name: "Dr. Sashideep Gutti",
     date: "August 2023",
     snippet: "Dr. Sashideep Gutti shared his knowledge of curl and divergence.",
-    img: "/src/assets/images/prof3.png",
+    img: "/public/images/prof3.png",
   }
 ];
 
