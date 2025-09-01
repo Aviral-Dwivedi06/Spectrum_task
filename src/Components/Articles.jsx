@@ -8,7 +8,7 @@ const articles = [
     title: "The Legacy of C.V. Raman: Beyond the Raman Effect",
     desc:
       "C.V. Raman’s groundbreaking discovery of the scattering of light not only earned him the Nobel Prize in Physics in 1930 but also placed Indian science on the global map. What is often overlooked, however, is his deep dedication to mentoring young scientists and building a culture of scientific curiosity in India. This article explores his life, his journey through Calcutta University and the Indian Institute of Science, and how his work continues to inspire future generations of researchers.",
-    img: "/public/images/article1.png",
+    img: "/public/images/article1.jpg",
   },
   {
     id: 2,
